@@ -1,0 +1,8 @@
+<resources>
+
+        <string name="app_name">EventsApp</string>
+        <string name="signup_label">Sign Up</string>
+        <string name="home_label">Home</string>
+        <string name="event_label">Event Details</string>
+
+</resources>
